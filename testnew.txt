@@ -1,6 +1,7 @@
 z pierwotnego
 zmiana z mastera
 z pierwtonego dla rebase
+z patcha
 
 
 
